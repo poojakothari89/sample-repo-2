@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BugCollection>
+    <IssueDetails IssueId="1">
+        <IssueType>CODE_LEVEL</IssueType>
+        <Priority>HIGH</Priority>
+        <Summary>This issue is related to null pointer Exception in xyz.java file</Summary>
+        <LogDate>2018-06-17T00:23:42.341+05:30</LogDate>
+        <Owner TeamId="1">
+            <FirstName>Pooja</FirstName>
+            <LastName>Kothari</LastName>
+            <EmailId>abc</EmailId>
+        </Owner>
+        <Seeker TeamId="2">
+            <FirstName>Rahul</FirstName>
+            <LastName>Barfa</LastName>
+            <EmailId>xyz</EmailId>
+        </Seeker>
+        <CloseDate>2018-06-18T00:23:42.329+05:30</CloseDate>
+        <Project ProjectId="P01">
+            <ProjectName>Yo Uganda</ProjectName>
+            <Manager TeamId="3">
+                <FirstName>Rajendra</FirstName>
+                <LastName>Malviya</LastName>
+                <EmailId>qwe</EmailId>
+            </Manager>
+        </Project>
+    </IssueDetails>
+    <IssueDetails IssueId="1">
+        <IssueType>FORMAT_LEVEL</IssueType>
+        <Priority>LOW</Priority>
+        <Summary>This issue is related to intentation in xyz.java file</Summary>
+        <LogDate>2018-06-17T00:23:42.355+05:30</LogDate>
+        <Owner TeamId="1">
+            <FirstName>Pooja</FirstName>
+            <LastName>Kothari</LastName>
+            <EmailId>abc</EmailId>
+        </Owner>
+        <Seeker TeamId="2">
+            <FirstName>Rahul</FirstName>
+            <LastName>Barfa</LastName>
+            <EmailId>xyz</EmailId>
+        </Seeker>
+        <CloseDate>2018-06-18T00:23:42.355+05:30</CloseDate>
+        <Project ProjectId="P01">
+            <ProjectName>Yo Uganda</ProjectName>
+            <Manager TeamId="3">
+                <FirstName>Rajendra</FirstName>
+                <LastName>Malviya</LastName>
+                <EmailId>qwe</EmailId>
+            </Manager>
+        </Project>
+    </IssueDetails>
+</BugCollection>
